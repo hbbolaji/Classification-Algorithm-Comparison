@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="335a5b08-2bb2-448f-8ad1-4c96d8414ead" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Decision_Tree_Classifier.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/K_Nearest_Neighbor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Logistic_Regression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Support_Vector_Classifer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exploratory.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random_Forest_Classifer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Decision_Tree_Classifier.py" beforeDir="false" afterPath="$PROJECT_DIR$/Decision_Tree_Classifier.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/K_Nearest_Neighbor.py" beforeDir="false" afterPath="$PROJECT_DIR$/K_Nearest_Neighbor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Support_Vector_Classifer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Support_Vector_Classifer.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.K_Nearest_Neighbor">
+  <component name="RunManager" selected="Python.Logistic_Regression">
     <configuration name="Decision_Tree_Classifier" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Classification Algorithm Comparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -105,6 +105,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Random_Forest_Classifer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Classification Algorithm Comparison" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Random_Forest_Classifer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Support_Vector_Classifer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Classification Algorithm Comparison" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,34 +147,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exploratory" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Classification Algorithm Comparison" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exploratory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.K_Nearest_Neighbor" />
-        <item itemvalue="Python.Support_Vector_Classifer" />
-        <item itemvalue="Python.Decision_Tree_Classifier" />
         <item itemvalue="Python.Logistic_Regression" />
-        <item itemvalue="Python.exploratory" />
+        <item itemvalue="Python.Support_Vector_Classifer" />
+        <item itemvalue="Python.Random_Forest_Classifer" />
+        <item itemvalue="Python.Decision_Tree_Classifier" />
+        <item itemvalue="Python.K_Nearest_Neighbor" />
       </list>
     </recent_temporary>
   </component>
