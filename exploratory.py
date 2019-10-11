@@ -1,0 +1,1 @@
+import pandas as pdimport numpy as npimport matplotlib.pyplot as pltimport seaborn as snsdata = pd.read_csv('Data_for_UCI_named.csv')print(data.info())sns.scatterplot(data['tau3'], data['g1'], hue=data.stabf)plt.show()
